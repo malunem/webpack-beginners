@@ -1,1 +1,1 @@
-(()=>{var r={853:r=>{r.exports=function(){alert("Hello I am Webpack")}}},e={};(function t(o){var a=e[o];if(void 0!==a)return a.exports;var n=e[o]={exports:{}};return r[o](n,n.exports,t),n.exports})(853)()})();
+(()=>{"use strict";alert("Hello I am Webpack")})();

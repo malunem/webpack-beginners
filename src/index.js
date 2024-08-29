@@ -1,2 +1,2 @@
-var sayHello = require('./greeting.js');
+import { sayHello } from './greeting.js';
 sayHello();
