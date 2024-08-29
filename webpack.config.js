@@ -1,6 +1,9 @@
+const path = require('path');
+
 module.exports = {
   entry: "./src/index.js",
   output: {
-    filename: "../build/application.js"
+    filename: "application.js",
+    path: path.resolve(__dirname, 'build')
   }
 }
