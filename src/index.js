@@ -1,1 +1,2 @@
-alert('Hello Webpack World !');
+var sayHello = require('./greeting.js');
+sayHello();
